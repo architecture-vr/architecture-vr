@@ -3,4 +3,9 @@
 
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    <string name="title_activity_project_view">ProjectViewActivity</string>
+    <string name="title_activity_create_visualization_project">Create Project
+    </string>
+    <string name="create_visualization_name">Project Name</string>
+    <string name="action_add">Add</string>
 </resources>
